@@ -1,4 +1,4 @@
-#### Valora0nt Skill Bot
+#### Valorant Skill Bot
 # Version BETA 1
 
 ### Instructions to use:
